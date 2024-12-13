@@ -28,11 +28,11 @@ Texto e imagen principal acá.
 
 ## 🛠 Technology
 
-
+Developed and built in Java using Oracle's JDK v.22.0.2.
 
 ## 👨🏻‍💻 Credits
 
-
+Developed by Camilo Jiménez a.k.a. Mystic. This project is the result of my independent work and does not include external contributions.
 
 ## 🙌🏻 Contact & Support
 
