@@ -24,7 +24,10 @@ Texto e imagen principal acá.
 
 ## 🔐 License
 
-This software is distributed under the terms of the GNU General Public License version v3.0 (GPLv3). A copy of this license can be found in the LICENSE file. The GPLv3 guarantees your freedoms to use, study, share, and modify this software. However, it also requires that any derivative works based on this software be distributed under the same license terms.
+This software is distributed under the terms of the GNU General Public License version v3.0 (GPLv3). A copy of this license can be found in the [LICENSE](LICENSE) file. The GPLv3 guarantees your freedoms to use, study, share, and modify this software. However, it also requires that any derivative works based on this software be distributed under the same license terms.
+
+[![License](https://img.shields.io/badge/License-GPLv3-brightgreen?style=social&logo=gnu&logoColor=%23A42E2B&logoSize=auto
+)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ## 🛠 Technology
 
@@ -35,5 +38,7 @@ Developed and built in Java using Oracle's JDK v.22.0.2.
 Developed by Camilo Jiménez a.k.a. Mystic. This project is the result of my independent work and does not include external contributions.
 
 ## 🙌🏻 Contact & Support
+
+[![Nombre en caso de que no cargue la img](Link del badge)](Link de la página a redireccionar)
 
 
