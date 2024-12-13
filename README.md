@@ -24,7 +24,7 @@ Texto e imagen principal acá.
 
 ## 🔐 License
 
-
+This software is distributed under the terms of the GNU General Public License version v3.0 (GPLv3). A copy of this license can be found in the LICENSE file. The GPLv3 guarantees your freedoms to use, study, share, and modify this software. However, it also requires that any derivative works based on this software be distributed under the same license terms.
 
 ## 🛠 Technology
 
