@@ -1,4 +1,5 @@
 package equipeditor;
+import java.awt.event.KeyEvent;
 import java.io.File;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
@@ -63,6 +64,9 @@ public class InterfaceUX extends javax.swing.JFrame {
         txtMega.setSelectedTextColor(new java.awt.Color(240, 240, 240));
         txtMega.setSelectionColor(new java.awt.Color(48, 22, 98));
         txtMega.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyPressed(java.awt.event.KeyEvent evt) {
+                txtMegaKeyPressed(evt);
+            }
             public void keyTyped(java.awt.event.KeyEvent evt) {
                 txtMegaKeyTyped(evt);
             }
@@ -118,6 +122,9 @@ public class InterfaceUX extends javax.swing.JFrame {
         txtOthers.setSelectedTextColor(new java.awt.Color(240, 240, 240));
         txtOthers.setSelectionColor(new java.awt.Color(48, 22, 98));
         txtOthers.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyPressed(java.awt.event.KeyEvent evt) {
+                txtOthersKeyPressed(evt);
+            }
             public void keyTyped(java.awt.event.KeyEvent evt) {
                 txtOthersKeyTyped(evt);
             }
@@ -281,6 +288,24 @@ public class InterfaceUX extends javax.swing.JFrame {
             evt.consume();
         }
     }//GEN-LAST:event_txtOthersKeyTyped
+
+    private void txtMegaKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtMegaKeyPressed
+        // Verificar si se presionó Ctrl + V (tecla de pegar)
+        if (evt.isControlDown() && evt.getKeyCode() == KeyEvent.VK_V) {
+            // Consumir el evento y bloquear la acción de pegar
+            evt.consume();
+            System.out.println("Se esta intentando pegar texto.");
+        }
+    }//GEN-LAST:event_txtMegaKeyPressed
+
+    private void txtOthersKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_txtOthersKeyPressed
+        // Verificar si se presionó Ctrl + V (tecla de pegar)
+        if (evt.isControlDown() && evt.getKeyCode() == KeyEvent.VK_V) {
+            // Consumir el evento y bloquear la acción de pegar
+            evt.consume();
+            System.out.println("Se esta intentando pegar texto.");
+        }
+    }//GEN-LAST:event_txtOthersKeyPressed
 
     /**
      * @param args the command line arguments
