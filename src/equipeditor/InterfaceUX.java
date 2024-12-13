@@ -267,7 +267,7 @@ public class InterfaceUX extends javax.swing.JFrame {
         boolean numero = key >= 48 && key <= 57;
         
         if (!numero) {
-            evt.consume();
+            evt.consume(); // Si no se cumple la condición consume el evento
         }
         
         if (txtMega.getText().trim().length() == 5) {
