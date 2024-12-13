@@ -17,3 +17,23 @@ The link will take you to Oracle's website to download Java. Look for the *"Java
 Next, find your operating system in the list under *"Product / File Description"*. Click the link next to it to start the download. Once the file is downloaded, just run it like you would any other program. It should install without any issues, but if you run into any trouble, let me know and I'll be happy to help.
 
 And that's it! You've successfully installed Java on your computer. Now you can run the .JAR file without any problems.
+
+## 🚀 Quickstart
+
+Texto e imagen principal acá.
+
+## 🔐 License
+
+
+
+## 🛠 Technology
+
+
+
+## 👨🏻‍💻 Credits
+
+
+
+## 🙌🏻 Contact & Support
+
+
