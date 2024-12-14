@@ -39,6 +39,16 @@ Developed by Camilo Jiménez a.k.a. Mystic. This project is the result of my ind
 
 ## 🙌🏻 Contact & Support
 
-[![Nombre en caso de que no cargue la img](Link del badge)](Link de la página a redireccionar)
+Feel free to connect with me on LinkedIn or email me directly. My social media profiles are linked at the beginning of this GitHub profile.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brightgreen?style=social&logo=linkedin&logoColor=%230A66C2&logoSize=auto
+)](https://www.linkedin.com/in/camilojimenz)
+[![Email](https://img.shields.io/badge/Email%20me-brightgreen?style=social&logo=gmail&logoColor=%23EA4335&logoSize=auto
+)](mailto:jmncamilo@gmail.com)
 
+If you find this tool helpful, please consider a small donation. Your support will help me continue developing useful tools for this amazing community. Thank you for your consideration.
+
+[![PayPal](https://img.shields.io/badge/Support%20Me%20on%20PayPal-f?style=flat&logo=paypal&logoColor=f0f0f0&logoSize=20&labelColor=%23003087&color=%23003087
+)](https://www.paypal.com/donate/?hosted_button_id=8DZU725MLQKRL)
+[![Buy Me a Coffeel](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-f?style=flat&logo=buymeacoffee&logoColor=0f0f0f&logoSize=20&labelColor=%23FFDD00&color=%23FFDD00
+)](https://buymeacoffee.com/jmncamilo)
