@@ -4,7 +4,7 @@ Equip editor for Yu-Gi-Oh! Forbidden Memories (PlayStation) [SLUS_014.11].
 
 ## 📖 Introduction
 
-With this tool, you can customize your Yu-Gi-Oh! Forbidden Memories [SLUS-014.11] ROM. Want to make *Megamorph* and *Bright Castle* even more powerful? You can tweak the **exact boost** they give to your monsters!
+With this tool, you can customize your Yu-Gi-Oh! Forbidden Memories [SLUS_014.11] ROM. Want to make *Megamorph* and *Bright Castle* even more powerful? You can tweak the **exact boost** they give to your monsters!
 
 >*This game has a simple system for equip cards: one value for Megamorph (which gets a special bonus +1000) and another for all the rest cards (like Dark Energy, Dragon Treasure, etc.). This tool lets you change these two main values but doesn't allow you to customize each card separately, so you can keep the game feeling like it always has.*
 
@@ -18,7 +18,7 @@ Next, find your operating system in the list under *"Product / File Description"
 
 And that's it! You've successfully installed Java on your computer. Now you can run the .JAR file without any problems.
 
->*Important:* This tool uses the Yu Gothic font, which should already be on your system since it's quite common. If you don't have it, just download [this file](https://eng.m.fontke.com/font/25874868/download/) and [this other one](https://eng.m.fontke.com/font/10600167/download/), and install them like you normally would any other font on your operating system. In fact, you can actually run the tool and it'll probably work, but you could run into some interface issues and see some weird errors.
+>*Important: this tool uses the Yu Gothic font, which should already be on your system since it's quite common. If you don't have it, just download [this file](https://eng.m.fontke.com/font/25874868/download/) and [this other one](https://eng.m.fontke.com/font/10600167/download/), and install them like you normally would any other font on your operating system. In fact, you can actually run the tool and it'll probably work, but you could run into some interface issues and see some weird errors.*
 
 ## 🚀 Quickstart
 
