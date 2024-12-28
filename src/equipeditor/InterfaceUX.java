@@ -222,9 +222,8 @@ public class InterfaceUX extends javax.swing.JFrame {
         me.ChangeMega(slus014, valorMega); //Llamamos al método que sobreescribe los valores
         } else {
             JOptionPane.showMessageDialog(null, "Enter a valid value!"); //Si no se cumple se muestra mensaje
+            txtMega.setText("0"); // Se establece valor 0 defecto
           }
-        
-        txtMega.setText(""); //Se vacía el campo de texto
         
     }//GEN-LAST:event_btnChange1ActionPerformed
 
@@ -238,9 +237,8 @@ public class InterfaceUX extends javax.swing.JFrame {
         me.changeOthers(slus014, valorOthers); //Llamamos al método que sobreescribe los valores
         } else {
             JOptionPane.showMessageDialog(null, "Enter a valid value!"); //Si no se cumple se muestra mensaje
+            txtOthers.setText("0"); // Se establece valor 0 defecto
           }
-        
-        txtOthers.setText(""); //Se vacía el campo de texto
         
     }//GEN-LAST:event_btnChange2ActionPerformed
 

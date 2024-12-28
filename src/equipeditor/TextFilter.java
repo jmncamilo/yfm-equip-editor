@@ -38,7 +38,7 @@ public class TextFilter extends DocumentFilter {
     
     @Override
     public void remove(FilterBypass fb, int offset, int length) throws BadLocationException {
-        // Permitir eliminaciones normalmente
+        // Permitir eliminación, incluso cuando el campo está vacío
         super.remove(fb, offset, length);
     }
     
