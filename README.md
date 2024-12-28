@@ -1,6 +1,6 @@
 # Yu-Gi-Oh! Forbidden Memories - Equip Editor byMystic
 
-Equip editor for Yu-Gi-Oh! Forbidden Memories (PlayStation) [SLUS-014.11].
+Equip editor for Yu-Gi-Oh! Forbidden Memories (PlayStation) [SLUS_014.11].
 
 ## 📖 Introduction
 
@@ -22,7 +22,19 @@ And that's it! You've successfully installed Java on your computer. Now you can 
 
 ## 🚀 Quickstart
 
-Texto e imagen principal acá.
+<div align="center">
+  <img src="\resources\EquipEditorUX.png" alt="UX" />
+</div>
+
+The tool is very simple and intuitive, you won't have much trouble navigating it. As you can see in the image, that's the tool, and here we will break down how it works. The number indicated below is the same number that points to the image, so you can guide yourself visually:
+
+**1.** Using this button, you will open your SLUS_014.11 file, which is the file we will need to edit the values and can be found in your ISO image. When we open the requested file, the tool unlocks the "Change" buttons.
+
+**2.** Here you can enter the decimal value (1 to 10000) by which you want to change the Megamorph value (which is 1000 by default). When you enter the desired value, click the "Change" button, and that's it.
+
+**3.** Here you can enter the decimal value (1 to 10000) by which you want to change the value of the other equip cards (which is 500 by default). When you enter the desired value, click the "Change" button, and that's it.
+
+Awesome! Enjoy your changes by putting the SLUS_014.11 file back into the game files. If you don't know how to extract or replace files from the game image, write to me, and I will help you.
 
 ## 🔐 License
 
