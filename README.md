@@ -10,13 +10,15 @@ With this tool, you can customize your Yu-Gi-Oh! Forbidden Memories [SLUS-014.11
 
 ## ⚙️ Installation
 
-Inside the "dist" folder, you'll find a .JAR executable. This means you need to have Java installed on your computer. If you're not familiar with Java and don't have it installed, simply [click here](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html).
+Inside the "releases" folder, you'll find a .JAR executable, if you don't know how to download it, click [here](https://github.com/jmncamilo/yfm-equip-editor/raw/refs/heads/main/releases/EquipEditor%20v1.0.1.zip). This means you need to have Java installed on your computer. If you're not familiar with Java and don't have it installed, simply [click here](https://www.oracle.com/java/technologies/javase/jdk22-archive-downloads.html).
 
 The link will take you to Oracle's website to download Java. Look for the *"Java SE Development Kit 22.0.2"*. Why this one? Because it is the specific version I used to build the project, so it should work perfectly!
 
 Next, find your operating system in the list under *"Product / File Description"*. Click the link next to it to start the download. Once the file is downloaded, just run it like you would any other program. It should install without any issues, but if you run into any trouble, let me know and I'll be happy to help.
 
 And that's it! You've successfully installed Java on your computer. Now you can run the .JAR file without any problems.
+
+>*Important:* This tool uses the Yu Gothic font, which should already be on your system since it's quite common. If you don't have it, just download [this file](https://eng.m.fontke.com/font/25874868/download/) and [this other one](https://eng.m.fontke.com/font/10600167/download/), and install them like you normally would any other font on your operating system. In fact, you can actually run the tool and it'll probably work, but you could run into some interface issues and see some weird errors.
 
 ## 🚀 Quickstart
 
